@@ -1,0 +1,23 @@
+{
+  "title": "Economic cost of mental health disorders: global and Latin America data 2020-202",
+  "id": "juanmoisesd/mental-health-economic-cost-global-latam-2020-2024",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "dalys",
+    "dataset",
+    "economics",
+    "gdp-loss",
+    "latin-america",
+    "mental-health",
+    "open-data",
+    "productivity",
+    "open-data",
+    "research"
+  ],
+  "description": "Economic cost of mental health disorders: global and Latin America data 2020-2024. GDP loss, productivity, DALYs. WHO, World Bank, PAHO. DOI: 10.7910/DVN/FQEYVN\n\nDOI: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FQEYVN\nGitHub: https://github.com/juanmoisesd/mental-health-economic-cost-global-latam-2020-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
