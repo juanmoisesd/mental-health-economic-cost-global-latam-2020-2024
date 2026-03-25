@@ -4,23 +4,17 @@
   "name": "Economic cost of mental health disorders: global and Latin America data 2020-2024. GDP loss, product",
   "version": "1.0.0",
   "identifier": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FQEYVN",
-  "datePublished": "2025",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/mental-health-economic-cost-global-latam-2020-2024",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "dalys, dataset, economics, gdp-loss, latin-america, mental-health, open-data, productivity"
+  ]
 }
